@@ -1,0 +1,15 @@
+.card {
+  background-color: rgb(14, 54, 70);
+  padding: 15px;
+  margin: 10px;
+  display: inline-block;
+
+  .header {
+    display: inline-block;
+    .rating {
+      .span {
+        color: aqua;
+      }
+    }
+  }
+}

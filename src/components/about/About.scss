@@ -1,0 +1,41 @@
+.about {
+  h2 {
+    color: aqua;
+    text-align: center;
+    margin: 50px;
+  }
+
+  .education {
+    color: white;
+    margin-left: 10vw;
+    span {
+      color: aqua;
+    }
+  }
+
+  .certificate {
+    color: white;
+    margin-left: 10vw;
+    span{
+        color: aqua;
+    }
+    img {
+      width: 30vw;
+      height: 40vh;
+      border: solid rgba(115, 100, 20, 0.972) 4px;
+    }
+  }
+
+  .project{
+    color: white;
+    margin-left: 10vw;
+    a{
+      color: white;
+      text-decoration: none;
+      span{
+        color: aqua;
+    }
+    }
+   
+  }
+}

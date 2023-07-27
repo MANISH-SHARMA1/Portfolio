@@ -1,0 +1,43 @@
+.home {
+  margin-left: 5vw;
+  color: white;
+
+  section {
+    margin: 50px;
+    .heading {
+      text-align: center;
+    }
+
+    .about {
+      display: inline-block;
+      .aboutt {
+        margin-left: 20vw;
+      }
+    }
+    span {
+      color: #00ffff;
+    }
+
+    .me {
+      display: inline-block;
+      .mee {
+        margin-left: 30vw;
+        a {
+          color: white;
+          text-decoration: none;
+        }
+      }
+    }
+
+    .social {
+      margin-left: -20px;
+      .link {
+        color: white;
+        margin: 20px;
+      }
+      .link:hover {
+        color: aqua;
+      }
+    }
+  }
+}

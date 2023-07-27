@@ -1,0 +1,26 @@
+.contact {
+  color: white;
+  margin-left: 10vw;
+  .connect_img{
+    color: aqua;
+    margin-left: 30vw;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+  }
+  .connect {
+    display: inline-block;
+  }
+  span {
+    color: aqua;
+  }
+  .social {
+    margin-left: 35vw;
+    .links {
+        margin-left: -20px;
+      .link {
+        color: aqua;
+        margin: 20px;
+      }
+    }
+  }
+}
